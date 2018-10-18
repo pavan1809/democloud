@@ -8,5 +8,6 @@ public class DemocloudApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemocloudApplication.class, args);
+		System.out.println("hello first commit");
 	}
 }
