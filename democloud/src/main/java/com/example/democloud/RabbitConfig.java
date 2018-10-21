@@ -6,6 +6,6 @@ public class RabbitConfig {
 	}
 
 	public String getName(){
-		return "";
+		return "pavan";
 	}
 }
